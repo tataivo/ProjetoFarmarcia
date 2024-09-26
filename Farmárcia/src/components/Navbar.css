@@ -1,0 +1,10 @@
+.Header{
+
+    height: 90px;
+    background-color: #e96a7e;
+    top: 0;
+    left: 0;
+    position: fixed;
+    width: 100%;
+}
+
